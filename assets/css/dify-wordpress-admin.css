@@ -1,0 +1,29 @@
+/**
+ * Admin styles for Dify WordPress plugin
+ */
+
+.dify-usage-instructions {
+	margin-top: 30px;
+	padding: 20px;
+	background: #f9f9f9;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.dify-usage-instructions h2 {
+	margin-top: 0;
+}
+
+.dify-usage-instructions h3 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.dify-usage-instructions code {
+	background: #fff;
+	padding: 5px 10px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	display: inline-block;
+	margin: 10px 0;
+}
